@@ -2,7 +2,7 @@
 
 ## Description
 
-An application that gives users the ability to track their money both online and offline.
+An application that gives users the ability to track their expenses both online and offline.
 
 Screenshot of the application:
 
